@@ -1,0 +1,122 @@
+{
+  "appName": "Gifty",
+  "tagline": "Celebrate together.",
+  "common": {
+    "continue": "Continue",
+    "getStarted": "Get started",
+    "skip": "Skip",
+    "next": "Next",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "share": "Share",
+    "viewAll": "View all",
+    "search": "Search",
+    "add": "Add",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "inDays_one": "In {{count}} day",
+    "inDays_other": "In {{count}} days",
+    "yearsOld_one": "{{count}} year old",
+    "yearsOld_other": "{{count}} years old"
+  },
+  "onboard": {
+    "title1": "Never miss a celebration",
+    "desc1": "Birthdays and name days, all in one beautiful place.",
+    "title2": "Gift together",
+    "desc2": "Reserve, contribute and surprise — secretly and securely.",
+    "title3": "Privacy first",
+    "desc3": "The birthday person never sees who reserved or paid."
+  },
+  "auth": {
+    "apple": "Continue with Apple",
+    "google": "Continue with Google",
+    "email": "Continue with Email",
+    "terms": "By continuing you agree to our Terms and Privacy Policy."
+  },
+  "nav": {
+    "calendar": "Calendar",
+    "people": "People",
+    "gifts": "Gifts",
+    "groups": "Groups",
+    "profile": "Profile"
+  },
+  "home": {
+    "upcoming": "Upcoming",
+    "myWishlist": "My wishlist",
+    "surpriseMe": "Surprise me",
+    "surpriseMeDesc": "Let others choose the perfect gift",
+    "contributedBy_one": "Contributed by {{count}} person",
+    "contributedBy_other": "Contributed by {{count}} people"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "upcomingCelebrations": "Upcoming celebrations",
+    "birthday": "Birthday",
+    "nameDay": "Name day"
+  },
+  "wishlist": {
+    "title": "Gifts",
+    "tabWishlist": "Wishlist",
+    "tabContribute": "Contribute",
+    "tabSurpriseMe": "Surprise me",
+    "addWish": "Add a wish",
+    "addWishHint": "or link to a product"
+  },
+  "qr": {
+    "title": "Contribute",
+    "amountFor": "for {{name}}",
+    "scanToPay": "Scan and pay",
+    "shareCode": "Share QR code"
+  },
+  "groups": {
+    "title": "Groups",
+    "family": "Family",
+    "friends": "Friends",
+    "coworkers": "Coworkers",
+    "members_one": "{{count}} member",
+    "members_other": "{{count}} members",
+    "gifts": "Gifts in this group",
+    "activity": "Activity"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "today": "Today",
+    "older": "Earlier"
+  },
+  "profile": {
+    "title": "Profile",
+    "wishlist": "Wishlist",
+    "contribute": "Contribute",
+    "surpriseMe": "Surprise me",
+    "myWishes": "My wishes"
+  },
+  "settings": {
+    "title": "Settings",
+    "account": "Account",
+    "language": "Language",
+    "languageAuto": "Auto (system)",
+    "theme": "Theme",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "terms": "Terms of Service",
+    "about": "About",
+    "signOut": "Sign out"
+  },
+  "premium": {
+    "title": "Gifty Premium",
+    "tagline": "Make every celebration unforgettable.",
+    "cta": "Upgrade to Premium",
+    "feature_unlimitedGroups": "Unlimited groups",
+    "feature_unlimitedWishes": "Unlimited wishlist",
+    "feature_hiddenWishlist": "Hidden wishlists",
+    "feature_aiSuggestions": "AI gift suggestions",
+    "feature_customThemes": "Custom profile themes",
+    "feature_analytics": "Contribution analytics"
+  }
+}

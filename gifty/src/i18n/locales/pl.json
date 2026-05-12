@@ -1,0 +1,124 @@
+{
+  "appName": "Gifty",
+  "tagline": "Świętujmy razem.",
+  "common": {
+    "continue": "Dalej",
+    "getStarted": "Zaczynamy",
+    "skip": "Pomiń",
+    "next": "Dalej",
+    "back": "Wstecz",
+    "save": "Zapisz",
+    "cancel": "Anuluj",
+    "delete": "Usuń",
+    "edit": "Edytuj",
+    "share": "Udostępnij",
+    "viewAll": "Zobacz wszystko",
+    "search": "Szukaj",
+    "add": "Dodaj",
+    "today": "Dzisiaj",
+    "tomorrow": "Jutro",
+    "inDays_one": "Za {{count}} dzień",
+    "inDays_few": "Za {{count}} dni",
+    "inDays_many": "Za {{count}} dni",
+    "inDays_other": "Za {{count}} dni",
+    "yearsOld_one": "{{count}} rok",
+    "yearsOld_few": "{{count}} lata",
+    "yearsOld_many": "{{count}} lat",
+    "yearsOld_other": "{{count}} lat"
+  },
+  "onboard": {
+    "title1": "Nie zapomnij o żadnej okazji",
+    "desc1": "Urodziny i imieniny w jednym pięknym miejscu.",
+    "title2": "Dawajcie prezenty razem",
+    "desc2": "Rezerwuj, dorzucaj się i zaskakuj – dyskretnie i bezpiecznie.",
+    "title3": "Prywatność na pierwszym miejscu",
+    "desc3": "Solenizant nigdy nie widzi, kto zarezerwował ani kto się dorzucił."
+  },
+  "auth": {
+    "apple": "Kontynuuj z Apple",
+    "google": "Kontynuuj z Google",
+    "email": "Kontynuuj z e-mailem",
+    "terms": "Kontynuując akceptujesz Regulamin i Politykę prywatności."
+  },
+  "nav": {
+    "calendar": "Kalendarz",
+    "people": "Osoby",
+    "gifts": "Prezenty",
+    "groups": "Grupy",
+    "profile": "Profil"
+  },
+  "home": {
+    "upcoming": "Nadchodzące",
+    "myWishlist": "Moja lista życzeń",
+    "surpriseMe": "Zaskocz mnie",
+    "surpriseMeDesc": "Niech inni wybiorą idealny prezent",
+    "contributedBy_one": "Dorzucił się {{count}} osoba",
+    "contributedBy_few": "Dorzuciły się {{count}} osoby",
+    "contributedBy_many": "Dorzuciło się {{count}} osób",
+    "contributedBy_other": "Dorzuciło się {{count}} osób"
+  },
+  "calendar": {
+    "title": "Kalendarz",
+    "upcomingCelebrations": "Nadchodzące święta",
+    "birthday": "Urodziny",
+    "nameDay": "Imieniny"
+  },
+  "wishlist": {
+    "title": "Prezenty",
+    "tabWishlist": "Lista życzeń",
+    "tabContribute": "Dorzuć się",
+    "tabSurpriseMe": "Zaskocz mnie",
+    "addWish": "Dodaj życzenie",
+    "addWishHint": "lub link do produktu"
+  },
+  "qr": {
+    "title": "Dorzuć się",
+    "amountFor": "dla {{name}}",
+    "scanToPay": "Zeskanuj i zapłać",
+    "shareCode": "Udostępnij kod QR"
+  },
+  "groups": {
+    "title": "Grupy",
+    "family": "Rodzina",
+    "friends": "Przyjaciele",
+    "coworkers": "Współpracownicy",
+    "members_one": "{{count}} członek",
+    "members_few": "{{count}} członków",
+    "members_many": "{{count}} członków",
+    "members_other": "{{count}} członków",
+    "gifts": "Prezenty w grupie",
+    "activity": "Aktywność"
+  },
+  "notifications": {
+    "title": "Powiadomienia",
+    "today": "Dzisiaj",
+    "older": "Wcześniej"
+  },
+  "profile": {
+    "title": "Profil",
+    "wishlist": "Lista życzeń",
+    "contribute": "Dorzuć się",
+    "surpriseMe": "Zaskocz mnie",
+    "myWishes": "Moje życzenia"
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "account": "Konto",
+    "language": "Język",
+    "languageAuto": "Automatycznie (system)",
+    "theme": "Motyw",
+    "themeSystem": "Systemowy",
+    "themeLight": "Jasny",
+    "themeDark": "Ciemny",
+    "notifications": "Powiadomienia",
+    "privacy": "Prywatność",
+    "terms": "Regulamin",
+    "about": "O aplikacji",
+    "signOut": "Wyloguj się"
+  },
+  "premium": {
+    "title": "Gifty Premium",
+    "tagline": "Zrób z każdej okazji coś wyjątkowego.",
+    "cta": "Aktywuj Premium"
+  }
+}

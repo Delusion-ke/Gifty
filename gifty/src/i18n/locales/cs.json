@@ -1,0 +1,120 @@
+{
+  "appName": "Gifty",
+  "tagline": "Slavme společně.",
+  "common": {
+    "continue": "Pokračovat",
+    "getStarted": "Začít",
+    "skip": "Přeskočit",
+    "next": "Další",
+    "back": "Zpět",
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "delete": "Smazat",
+    "edit": "Upravit",
+    "share": "Sdílet",
+    "viewAll": "Zobrazit vše",
+    "search": "Hledat",
+    "add": "Přidat",
+    "today": "Dnes",
+    "tomorrow": "Zítra",
+    "inDays_one": "Za {{count}} den",
+    "inDays_few": "Za {{count}} dny",
+    "inDays_other": "Za {{count}} dní",
+    "yearsOld_one": "{{count}} rok",
+    "yearsOld_few": "{{count}} roky",
+    "yearsOld_other": "{{count}} let"
+  },
+  "onboard": {
+    "title1": "Nezapomeň na žádnou oslavu",
+    "desc1": "Narozeniny a svátky na jednom krásném místě.",
+    "title2": "Darujte společně",
+    "desc2": "Rezervuj, přispěj a překvap – diskrétně a bezpečně.",
+    "title3": "Soukromí na prvním místě",
+    "desc3": "Oslavenec nikdy nevidí, kdo rezervoval ani kdo přispěl."
+  },
+  "auth": {
+    "apple": "Pokračovat s Apple",
+    "google": "Pokračovat s Google",
+    "email": "Pokračovat e-mailem",
+    "terms": "Pokračováním souhlasíš s podmínkami a ochranou soukromí."
+  },
+  "nav": {
+    "calendar": "Kalendář",
+    "people": "Lidé",
+    "gifts": "Dárky",
+    "groups": "Skupiny",
+    "profile": "Profil"
+  },
+  "home": {
+    "upcoming": "Nejbližší",
+    "myWishlist": "Můj wishlist",
+    "surpriseMe": "Překvapte mě",
+    "surpriseMeDesc": "Ať ostatní vyberou ten správný dárek",
+    "contributedBy_one": "Přispěl {{count}} člověk",
+    "contributedBy_few": "Přispěli {{count}} lidé",
+    "contributedBy_other": "Přispělo {{count}} lidí"
+  },
+  "calendar": {
+    "title": "Kalendář",
+    "upcomingCelebrations": "Nejbližší svátky",
+    "birthday": "Narozeniny",
+    "nameDay": "Svátek"
+  },
+  "wishlist": {
+    "title": "Dárky",
+    "tabWishlist": "Wishlist",
+    "tabContribute": "Přispět",
+    "tabSurpriseMe": "Překvapte mě",
+    "addWish": "Přidat přání",
+    "addWishHint": "nebo odkaz na produkt"
+  },
+  "qr": {
+    "title": "Přispět",
+    "amountFor": "pro {{name}}",
+    "scanToPay": "Naskenuj a zaplať",
+    "shareCode": "Sdílet QR kód"
+  },
+  "groups": {
+    "title": "Skupiny",
+    "family": "Rodina",
+    "friends": "Přátelé",
+    "coworkers": "Kolegové",
+    "members_one": "{{count}} člen",
+    "members_few": "{{count}} členové",
+    "members_other": "{{count}} členů",
+    "gifts": "Dárky ve skupině",
+    "activity": "Aktivita"
+  },
+  "notifications": {
+    "title": "Notifikace",
+    "today": "Dnes",
+    "older": "Dříve"
+  },
+  "profile": {
+    "title": "Profil",
+    "wishlist": "Wishlist",
+    "contribute": "Přispět",
+    "surpriseMe": "Překvapte mě",
+    "myWishes": "Moje přání"
+  },
+  "settings": {
+    "title": "Nastavení",
+    "account": "Účet",
+    "language": "Jazyk",
+    "languageAuto": "Automaticky (systém)",
+    "theme": "Motiv",
+    "themeSystem": "Systémový",
+    "themeLight": "Světlý",
+    "themeDark": "Tmavý",
+    "notifications": "Notifikace",
+    "privacy": "Soukromí",
+    "terms": "Podmínky použití",
+    "about": "O aplikaci",
+    "signOut": "Odhlásit se"
+  },
+  "premium": {
+    "title": "Gifty Premium",
+    "tagline": "Udělej každou oslavu nezapomenutelnou.",
+    "cta": "Aktivovat Premium"
+  }
+}

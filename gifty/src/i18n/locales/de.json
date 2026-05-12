@@ -1,0 +1,116 @@
+{
+  "appName": "Gifty",
+  "tagline": "Feiert zusammen.",
+  "common": {
+    "continue": "Weiter",
+    "getStarted": "Loslegen",
+    "skip": "Überspringen",
+    "next": "Weiter",
+    "back": "Zurück",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "share": "Teilen",
+    "viewAll": "Alle anzeigen",
+    "search": "Suchen",
+    "add": "Hinzufügen",
+    "today": "Heute",
+    "tomorrow": "Morgen",
+    "inDays_one": "In {{count}} Tag",
+    "inDays_other": "In {{count}} Tagen",
+    "yearsOld_one": "{{count}} Jahr alt",
+    "yearsOld_other": "{{count}} Jahre alt"
+  },
+  "onboard": {
+    "title1": "Verpasse keine Feier",
+    "desc1": "Geburtstage und Namenstage an einem schönen Ort.",
+    "title2": "Gemeinsam schenken",
+    "desc2": "Reservieren, beitragen und überraschen – diskret und sicher.",
+    "title3": "Privatsphäre zuerst",
+    "desc3": "Das Geburtstagskind sieht nie, wer reserviert oder gezahlt hat."
+  },
+  "auth": {
+    "apple": "Mit Apple anmelden",
+    "google": "Mit Google anmelden",
+    "email": "Mit E-Mail anmelden",
+    "terms": "Mit der Anmeldung akzeptierst du die AGB und Datenschutzrichtlinie."
+  },
+  "nav": {
+    "calendar": "Kalender",
+    "people": "Personen",
+    "gifts": "Geschenke",
+    "groups": "Gruppen",
+    "profile": "Profil"
+  },
+  "home": {
+    "upcoming": "Bald",
+    "myWishlist": "Meine Wunschliste",
+    "surpriseMe": "Überrasche mich",
+    "surpriseMeDesc": "Lass andere das perfekte Geschenk wählen",
+    "contributedBy_one": "{{count}} Person hat beigetragen",
+    "contributedBy_other": "{{count}} Personen haben beigetragen"
+  },
+  "calendar": {
+    "title": "Kalender",
+    "upcomingCelebrations": "Kommende Feiern",
+    "birthday": "Geburtstag",
+    "nameDay": "Namenstag"
+  },
+  "wishlist": {
+    "title": "Geschenke",
+    "tabWishlist": "Wunschliste",
+    "tabContribute": "Beitragen",
+    "tabSurpriseMe": "Überrasche mich",
+    "addWish": "Wunsch hinzufügen",
+    "addWishHint": "oder Link zum Produkt"
+  },
+  "qr": {
+    "title": "Beitragen",
+    "amountFor": "für {{name}}",
+    "scanToPay": "Scannen und bezahlen",
+    "shareCode": "QR-Code teilen"
+  },
+  "groups": {
+    "title": "Gruppen",
+    "family": "Familie",
+    "friends": "Freunde",
+    "coworkers": "Kollegen",
+    "members_one": "{{count}} Mitglied",
+    "members_other": "{{count}} Mitglieder",
+    "gifts": "Geschenke in der Gruppe",
+    "activity": "Aktivität"
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "today": "Heute",
+    "older": "Früher"
+  },
+  "profile": {
+    "title": "Profil",
+    "wishlist": "Wunschliste",
+    "contribute": "Beitragen",
+    "surpriseMe": "Überrasche mich",
+    "myWishes": "Meine Wünsche"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "account": "Konto",
+    "language": "Sprache",
+    "languageAuto": "Automatisch (System)",
+    "theme": "Design",
+    "themeSystem": "System",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel",
+    "notifications": "Benachrichtigungen",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "about": "Über die App",
+    "signOut": "Abmelden"
+  },
+  "premium": {
+    "title": "Gifty Premium",
+    "tagline": "Mach jede Feier unvergesslich.",
+    "cta": "Premium aktivieren"
+  }
+}

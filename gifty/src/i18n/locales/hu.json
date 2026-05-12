@@ -1,0 +1,116 @@
+{
+  "appName": "Gifty",
+  "tagline": "Ünnepeljünk együtt.",
+  "common": {
+    "continue": "Folytatás",
+    "getStarted": "Kezdjük el",
+    "skip": "Kihagyás",
+    "next": "Tovább",
+    "back": "Vissza",
+    "save": "Mentés",
+    "cancel": "Mégse",
+    "delete": "Törlés",
+    "edit": "Szerkesztés",
+    "share": "Megosztás",
+    "viewAll": "Mind",
+    "search": "Keresés",
+    "add": "Hozzáadás",
+    "today": "Ma",
+    "tomorrow": "Holnap",
+    "inDays_one": "{{count}} nap múlva",
+    "inDays_other": "{{count}} nap múlva",
+    "yearsOld_one": "{{count}} éves",
+    "yearsOld_other": "{{count}} éves"
+  },
+  "onboard": {
+    "title1": "Ne maradj le egy ünnepről sem",
+    "desc1": "Születésnapok és névnapok egy szép helyen.",
+    "title2": "Ajándékozzatok együtt",
+    "desc2": "Foglalj, járulj hozzá és lepd meg – diszkréten és biztonságosan.",
+    "title3": "A magánélet az első",
+    "desc3": "Az ünnepelt sosem látja, ki foglalt vagy ki fizetett."
+  },
+  "auth": {
+    "apple": "Folytatás Apple-lel",
+    "google": "Folytatás Google-lel",
+    "email": "Folytatás e-maillel",
+    "terms": "A folytatással elfogadod a feltételeket és az adatvédelmet."
+  },
+  "nav": {
+    "calendar": "Naptár",
+    "people": "Emberek",
+    "gifts": "Ajándékok",
+    "groups": "Csoportok",
+    "profile": "Profil"
+  },
+  "home": {
+    "upcoming": "Közelgő",
+    "myWishlist": "Kívánságlistám",
+    "surpriseMe": "Lepj meg",
+    "surpriseMeDesc": "Mások válasszák ki a tökéletes ajándékot",
+    "contributedBy_one": "{{count}} ember járult hozzá",
+    "contributedBy_other": "{{count}} ember járult hozzá"
+  },
+  "calendar": {
+    "title": "Naptár",
+    "upcomingCelebrations": "Közelgő ünnepek",
+    "birthday": "Születésnap",
+    "nameDay": "Névnap"
+  },
+  "wishlist": {
+    "title": "Ajándékok",
+    "tabWishlist": "Kívánságlista",
+    "tabContribute": "Hozzájárulás",
+    "tabSurpriseMe": "Lepj meg",
+    "addWish": "Kívánság hozzáadása",
+    "addWishHint": "vagy link a termékre"
+  },
+  "qr": {
+    "title": "Hozzájárulás",
+    "amountFor": "{{name}} részére",
+    "scanToPay": "Olvasd be és fizess",
+    "shareCode": "QR-kód megosztása"
+  },
+  "groups": {
+    "title": "Csoportok",
+    "family": "Család",
+    "friends": "Barátok",
+    "coworkers": "Munkatársak",
+    "members_one": "{{count}} tag",
+    "members_other": "{{count}} tag",
+    "gifts": "Ajándékok a csoportban",
+    "activity": "Aktivitás"
+  },
+  "notifications": {
+    "title": "Értesítések",
+    "today": "Ma",
+    "older": "Korábban"
+  },
+  "profile": {
+    "title": "Profil",
+    "wishlist": "Kívánságlista",
+    "contribute": "Hozzájárulás",
+    "surpriseMe": "Lepj meg",
+    "myWishes": "Kívánságaim"
+  },
+  "settings": {
+    "title": "Beállítások",
+    "account": "Fiók",
+    "language": "Nyelv",
+    "languageAuto": "Automatikus (rendszer)",
+    "theme": "Téma",
+    "themeSystem": "Rendszer",
+    "themeLight": "Világos",
+    "themeDark": "Sötét",
+    "notifications": "Értesítések",
+    "privacy": "Adatvédelem",
+    "terms": "Felhasználási feltételek",
+    "about": "Az alkalmazásról",
+    "signOut": "Kijelentkezés"
+  },
+  "premium": {
+    "title": "Gifty Premium",
+    "tagline": "Tedd felejthetetlenné minden ünnepet.",
+    "cta": "Premium aktiválása"
+  }
+}
