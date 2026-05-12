@@ -1,0 +1,2 @@
+import 'package:flutter/material.dart'; import '../../../../shared/widgets/premium_scaffold.dart'; import '../../../../l10n/l10n.dart';
+class GroupsScreen extends StatelessWidget{const GroupsScreen({super.key});@override Widget build(BuildContext context){final l=AppLocalizations.of(context); return PremiumScaffold(title: l.t('groups'), child: const Center(child: Text('Family, friends and coworkers funding groups')));}}

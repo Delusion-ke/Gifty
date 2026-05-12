@@ -1,0 +1,2 @@
+import 'package:flutter/material.dart'; import '../../../../shared/widgets/premium_scaffold.dart'; import '../../../../l10n/l10n.dart';
+class ProfileScreen extends StatelessWidget{const ProfileScreen({super.key});@override Widget build(BuildContext context){final l=AppLocalizations.of(context); return PremiumScaffold(title: l.t('profile'), child: const Center(child: Text('Profile, IBAN/QR, surprise me toggle')));}}
